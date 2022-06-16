@@ -1,0 +1,6 @@
+Hello world
+I love Node.jsD:\apps\NodeTutorial\reference\test\helloWorld.txt
+{"id":"4d82c6af-6b6c-4086-b0ab-f7899ae0107e","message":"Hello world"}
+{"id":"a18057d3-a5b4-41c4-97ca-bec5bf080ae4","message":"Hello world"}
+{"id":"8783ab46-d917-4c36-ae2b-76d53339a0ca","message":"Hello world"}
+{"id":"e0724d25-d975-4b75-a8f3-58b7bf302344","message":"Hello world"}
